@@ -1,0 +1,3 @@
+[submodule "HW1"]
+    path = HW1/HW1
+    url = https://github.com/elswit/Fall-23-APML-Public.git
