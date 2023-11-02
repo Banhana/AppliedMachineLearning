@@ -13,7 +13,7 @@ def main():
     while True:
         ret, frame = cap.read()
 
-        # writer.write(frame)
+        writer.write(frame)
         
         cv2.imshow("device read", frame)
 
